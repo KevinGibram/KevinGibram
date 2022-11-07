@@ -12,17 +12,18 @@
 
 [![Intro](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")
 
-soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnologo en analisis y desarrollo de sistemas de informaciòn (sofdware), mi fuerte en el area es el frondtend, creacion de paginas web con PHP y MYSQL, la esperiencia de usuario, el marquetin digital, Database; me gusta la gestion de la seguridad informatica, inteligencia artificial, etc; mi ingles por el momento es basico (A2) pero trabajo todos los dias para mejorar en esta lengua.
+soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
+
 
 <!-- HERRAMIENTAS -->
 **Apps y Herramientas que uso:**
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MARIADB.jpg?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></codigo>
-<codigo><img altura = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></codigo>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MARIADB.jpg?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
+<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
 ### Donde me pueden encontrar: 👋
