@@ -8,11 +8,11 @@
 
 [![PORTAFOLIO EN MANTENIMIENTO](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO")](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO") -->
 
-soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
-
 <!-- IMAGEN DE PORTAFOLIO -->
 
 [![Intro](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")
+
+soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
 
 <p align="center">
 <img src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif">
