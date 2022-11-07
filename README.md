@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GIF DE LA CABECERA -->
+[![PORTAFOLIO EN MANTENIMIENTO](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO")](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO")
+
+<!-- IMAGEN DE PORTAFOLIO -->
+[![Intro](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")
