@@ -15,8 +15,10 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
+<code><img width="848" height="274" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso?raw=true" ></code>
+
 <!-- GIF -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="350" height="320">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="350" height="359">
 
 <!--CRONOGRAMA SEMANAL-->
 
