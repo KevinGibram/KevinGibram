@@ -1,22 +1,6 @@
-### Bienvenidos a este pequeno espacio de internet 👋
-
-<!--
-**KevinGibram/KevinGibram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- GIF DE LA CABECERA
-
-[![PORTAFOLIO EN MANTENIMIENTO](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO")](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif "PORTAFOLIO EN MANTENIMIENTO") -->
-
-<!-- IMAGEN DE PORTAFOLIO -->
-
-[![Intro](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")](https://github.com/KevinGibram/KevinGibram/blob/main/img/portafolio%20git.png?raw=true "Intro")
+### Bienvenidos a este pequeno espacio de internet 👋 Soy el Progrmador Gibram 
 
 soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
-
-<p align="center">
-<img src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif">
-</p>
 
 <!-- HERRAMIENTAS -->
 
@@ -31,11 +15,24 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
-#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
+<!-- GIF -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="500" height="320">
+
+<!--CRONOGRAMA SEMANAL-->
+
+📊 **Cronograma semanal (Programaciòn):**
+
+```text
+JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
+Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+```
+
+📈 mis estadísticas de github
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham" alt="KevinGibram" />
 
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social)
-
-<a href="http://daguilera.com.mx"><img src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/rsz_da.png" width="65px" height="25px" align="right" /></a>
