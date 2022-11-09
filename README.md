@@ -16,7 +16,7 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
 <!-- GIF -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="500" height="320">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="300" height="220">
 
 <!--CRONOGRAMA SEMANAL-->
 
