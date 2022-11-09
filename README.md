@@ -16,7 +16,7 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
 <!-- GIF -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="300" height="220">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif"  width="350" height="320">
 
 <!--CRONOGRAMA SEMANAL-->
 
@@ -30,7 +30,7 @@ Html        29 mins         ▓░░░░░░░░░░░░░░░░�
 
 📈 mis estadísticas de github
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham" alt="KevinGibram" />
+<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
