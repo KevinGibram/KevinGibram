@@ -18,9 +18,7 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code>
 
 <!-- GIF -->
-<img align="right" alt="GIF" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv"  width="350" height="359">
-
-<!--CRONOGRAMA SEMANAL-->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
 
 📊 **Cronograma semanal (Programaciòn):**
 
