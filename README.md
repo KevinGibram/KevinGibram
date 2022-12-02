@@ -37,6 +37,12 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Bootstrap.png?raw=true" ></code>
 
 
+<!--imagen -->
+<code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code> 
+
+
+
+
 
 
 
