@@ -58,6 +58,8 @@ Html        29 mins         ▓░░░░░░░░░░░░░░░░�
 
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
+![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
+
 
 
 
