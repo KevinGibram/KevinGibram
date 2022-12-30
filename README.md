@@ -53,8 +53,6 @@ JavaScrip   10 hrs 20 mins  █████████████████�
 Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 
-``` 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
 
 
