@@ -48,13 +48,6 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 
  📊 **Cronograma semanal (Programaciòn):**
 
-```text
-JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
-Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-
-``` 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
