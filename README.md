@@ -56,6 +56,11 @@ Html        29 mins         ▓░░░░░░░░░░░░░░░░�
 ``` 
 <img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
+![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
+![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social) 
+
 
 
 
