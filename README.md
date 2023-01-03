@@ -20,11 +20,12 @@ Aunque soy un desarrollador web junior, tengo experiencia en el desarrollo de si
 
 Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScript. Utilicé Bootstrap para la creación de la interfaz de usuario y jQuery para el desarrollo de las funcionalidades. href : https://gibram-miwebdev.netlify.app
 
+
+
+
+
+
 ## 
-<!-- HERRAMIENTAS -->
-### Apps y Herramientas que uso:
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true"></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
