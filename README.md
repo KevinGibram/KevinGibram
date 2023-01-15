@@ -15,6 +15,11 @@ Bases de datos: MySQL, PostgreSQL, MongoDB.
 Herramientas de desarrollo: Git, VS Code, Sublime Text.
 Otros: SEO, accesibilidad web, UX/UI, metodologías ágiles.
 
+Experiencia:
+Aunque soy un desarrollador web junior, tengo experiencia en el desarrollo de sitios web. Aquí hay una lista de algunos de mis proyectos:
+
+
+
 
 
 
