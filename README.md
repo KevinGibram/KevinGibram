@@ -20,6 +20,11 @@ Aunque soy un desarrollador web junior, tengo experiencia en el desarrollo de si
 
 Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScript. Utilicé Bootstrap para la creación de la interfaz de usuario y jQuery para el desarrollo de las funcionalidades. href : https://gibram-miwebdev.netlify.app
 
+
+
+
+
+
 ## 
 <!-- HERRAMIENTAS -->
 ### Apps y Herramientas que uso:
