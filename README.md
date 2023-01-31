@@ -46,6 +46,12 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 
 ## 📈 mis estadísticas de github
 
+ 📊 **Cronograma semanal (Programaciòn):**
+
+```text
+JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
+Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 
 ``` 
 
