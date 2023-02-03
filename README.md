@@ -54,7 +54,7 @@ Css         50 mins         █░░░░░░░░░░░░░░░░�
 Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 
 ``` 
-
+<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
 
 
