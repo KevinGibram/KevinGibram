@@ -22,10 +22,6 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 
 Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme por correo electrónico o LinkedIn. ¡Espero poder trabajar contigo en el futuro!
 
-
-
-
-
 ## 
 <!-- HERRAMIENTAS -->
 ### Apps y Herramientas que uso:
