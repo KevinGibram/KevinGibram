@@ -8,6 +8,7 @@ Soy un desarrollador web junior con un técnico en sistemas, un tecnólogo en An
 Habilidades:
 Soy un apasionado del desarrollo web y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades. Aquí hay una lista de las habilidades que he desarrollado hasta ahora:
 
+
 Lenguajes de programación: SCSS, JavaScript, PHP, SQL. 
 Frameworks y bibliotecas: Bootstrap.
 Bases de datos: MySQL, PostgreSQL, MongoDB.
@@ -30,7 +31,7 @@ Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en c
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></code>
+<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true"></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
 <code><img height = "50" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/gulp.png?raw=true" ></code>
@@ -61,7 +62,7 @@ Html        29 mins         ▓░░░░░░░░░░░░░░░░�
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social) 
 
 
 
