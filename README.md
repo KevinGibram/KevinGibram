@@ -6,14 +6,14 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 
 **Apps y Herramientas que uso:**
 
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MARIADB.jpg?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
-<code><img height = "30" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MARIADB.jpg?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
 <code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code>
 
