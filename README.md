@@ -20,13 +20,13 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <!-- GIF -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
 
-📊 **Cronograma semanal (Programaciòn):**
+<!-- 📊 **Cronograma semanal (Programaciòn):**
 
 ```text
 JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
 Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-```
+``` -->
 
 📈 mis estadísticas de github
 
