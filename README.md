@@ -1,6 +1,6 @@
 ## Bienvenidos a este pequeno espacio de internet 👋 Soy el Progrmador Gibram 
 
-soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
+### soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
 
 <!-- HERRAMIENTAS -->
 
@@ -15,11 +15,25 @@ soy **programador junior con muchas ganas de aprender** tengo los conocimientos 
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
 
-<!-- <code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code> -->
 
 <!-- GIF -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
-<br><hr>
+<hr>
+
+## 📈 mis estadísticas de github
+
+<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
+
+![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
+![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social)
+
+
+
+<!-- <code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code> -->
+
+
 
 <!-- 📊 **Cronograma semanal (Programaciòn):**
 
@@ -28,12 +42,3 @@ JavaScrip   10 hrs 20 mins  █████████████████�
 Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ``` -->
-
-📈 mis estadísticas de github
-
-<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
-
-![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
-![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social)
