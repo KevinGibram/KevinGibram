@@ -11,9 +11,10 @@
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true" ></code>
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
-<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MARIADB.jpg?raw=true" ></code>
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
+<code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/gulp.png?raw=true" ></code>
 <code><img height = "40" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
+
 
 
 <!-- GIF -->
@@ -35,10 +36,10 @@
 
 
 
-<!-- 📊 **Cronograma semanal (Programaciòn):**
+ 📊 **Cronograma semanal (Programaciòn):**
 
 ```text
 JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
 Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-``` -->
+``` 
