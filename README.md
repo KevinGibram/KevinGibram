@@ -1,6 +1,25 @@
 ## Bienvenidos a este pequeno espacio de internet 👋 Soy el Progrmador Gibram 
 
-### soy **programador junior con muchas ganas de aprender** tengo los conocimientos y certificado como tecnico en sistemas y tecnólogo en análisis y desarrollo de sistemas de informaciòn (software), mi fuerte en el área es el frontend, creacion de paginas web con PHP y MYSQL, la experiencia de usuario, el marketing digital, Database; me gusta la gestión de la seguridad informática, inteligencia artificial, etc; mi inglés por el momento es básico (A2) pero trabajo todos los días para mejorar en esta lengua.
+### En este documento, encontrarás información importante sobre mi formación, habilidades y experiencia en el desarrollo web.
+
+Formación
+Soy un desarrollador web junior con un técnico en sistemas, un tecnólogo en Análisis Y Desarrollo de sistemas De Información(Software); Además, he completado varios cursos en línea y presenciales en lenguajes de programación y desarrollo de páginas web.
+
+Habilidades
+Soy un apasionado del desarrollo web y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades. Aquí hay una lista de las habilidades que he desarrollado hasta ahora:
+
+Lenguajes de programación: SCSS, JavaScript, PHP, SQL.
+Frameworks y bibliotecas: Bootstrap..
+Bases de datos: MySQL, PostgreSQL, MongoDB.
+Herramientas de desarrollo: Git, VS Code, Sublime Text.
+Otros: SEO, accesibilidad web, UX/UI, metodologías ágiles.
+Experiencia
+Aunque soy un desarrollador web junior, tengo experiencia en el desarrollo de sitios web. Aquí hay una lista de algunos de mis proyectos:
+
+Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScript. Utilicé Bootstrap para la creación de la interfaz de usuario y jQuery para el desarrollo de las funcionalidades. href : https://gibram-miwebdev.netlify.app
+
+Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme por correo electrónico o LinkedIn. ¡Espero poder trabajar contigo en el futuro!
+
 
 <!-- HERRAMIENTAS -->
 
