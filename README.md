@@ -20,6 +20,7 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 
 Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme por correo electrónico o LinkedIn. ¡Espero poder trabajar contigo en el futuro!
 
+## 
 
 <!-- HERRAMIENTAS -->
 
@@ -43,7 +44,6 @@ Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en c
 
 <!-- GIF -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
-<hr>
 
 ## 📈 mis estadísticas de github
 
