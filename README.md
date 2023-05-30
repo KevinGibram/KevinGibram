@@ -45,15 +45,6 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
 
 ## 📈 mis estadísticas de github
-
- 📊 **Cronograma semanal (Programaciòn):**
-
-```text
-JavaScrip   10 hrs 20 mins  ██████████████████████░░░   88.12 %
-Css         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Html        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-
-``` 
 <img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
 ![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
