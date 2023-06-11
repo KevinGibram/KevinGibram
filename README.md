@@ -47,4 +47,3 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 ## 📈 mis estadísticas de github
 <img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
 
-## 
