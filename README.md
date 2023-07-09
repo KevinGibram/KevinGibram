@@ -27,4 +27,3 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 ### Apps y Herramientas que uso:
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
