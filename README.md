@@ -7,6 +7,4 @@ Soy un desarrollador web junior con un técnico en sistemas, un tecnólogo en An
 
 
 Habilidades:
-Soy un apasionado del desarrollo web y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades. Aquí hay una lista de las habilidades que he desarrollado hasta ahora:
-
-Lenguajes de programación: SCSS, JavaScript, PHP, SQL. 
+Soy un apasionado del desarrollo web y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades. Aquí hay una lista de las habilidades que he 
