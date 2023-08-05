@@ -4,6 +4,3 @@
 
 Formación
 Soy un desarrollador web junior con un técnico en sistemas, un tecnólogo en Análisis Y Desarrollo de sistemas De Información(Software); Además, he completado varios cursos en línea y presenciales en lenguajes de programación y desarrollo de páginas web.
-
-
-Habilidades:
