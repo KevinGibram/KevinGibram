@@ -10,3 +10,5 @@ Habilidades:
 Soy un apasionado del desarrollo web y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades. Aquí hay una lista de las habilidades que he desarrollado hasta ahora:
 
 Lenguajes de programación: SCSS, JavaScript, PHP, SQL. 
+Frameworks y bibliotecas: Bootstrap.
+Bases de datos: MySQL, PostgreSQL, MongoDB.
