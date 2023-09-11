@@ -14,3 +14,5 @@ Frameworks y bibliotecas: Bootstrap.
 Bases de datos: MySQL, PostgreSQL, MongoDB.
 Herramientas de desarrollo: Git, VS Code, Sublime Text.
 Otros: SEO, accesibilidad web, UX/UI, metodologías ágiles.
+
+Experiencia:
