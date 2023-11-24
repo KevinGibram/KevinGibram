@@ -27,35 +27,3 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 ### Apps y Herramientas que uso:
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/HTML5.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true"></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/GIT.png?raw=true" ></code>
-<code><img height = "50" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/gulp.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Sass.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/VS.png?raw=true" ></code>
-<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/Bootstrap.png?raw=true" ></code>
-
-
-<!--imagen -->
-<code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code> 
-
-
-<!-- GIF -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
-
-## 📈 mis estadísticas de github
-<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
-
-## 
-
-![GitHub stars](https://img.shields.io/github/stars/KevinGibram/KevinGibram?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
-![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social) 
-
-
-
-
-
-
