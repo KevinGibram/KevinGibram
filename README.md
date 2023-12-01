@@ -29,3 +29,4 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/CSS.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/JavaScrip.png?raw=true" ></code>
 <code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/PHP.png?raw=true"></code>
+<code><img height = "45" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/HERRAMIENTAS/MYSQL.png?raw=true" ></code>
