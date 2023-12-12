@@ -39,3 +39,7 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 
 <!--imagen -->
 <code><img width="848" height="178" src = "https://github.com/KevinGibram/KevinGibram/blob/main/img/compromiso.jpg?raw=true" ></code> 
+
+
+<!-- GIF -->
+<
