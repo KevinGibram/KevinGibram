@@ -44,3 +44,5 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 <!-- GIF -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
 
+## 📈 mis estadísticas de github
+
