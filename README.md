@@ -45,6 +45,8 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" height="359">
 
 ## 📈 mis estadísticas de github
-<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&
+<img src="https://github-readme-stats.vercel.app/api?username=KevinGibram&show_icons=true&theme=gotham">
+
+
 
 
