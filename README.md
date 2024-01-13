@@ -53,3 +53,9 @@ Sitio web personal: Desarrollé un sitio web personal usando HTML, CSS y JavaScr
 ![GitHub forks](https://img.shields.io/github/forks/KevinGibram/KevinGibram?label=Fork&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/KevinGibram?label=Follow&style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/KevinGibram/KevinGibram?style=social) 
+
+
+
+
+
+
